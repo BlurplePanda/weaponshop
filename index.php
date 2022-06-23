@@ -17,6 +17,7 @@ else{
 
 <body>
 <header>
+    <h3> PONS </h3>
     <nav>
         <a href='index.php'> Home </a>
         <a href='weapons.php'> Weapons </a>
@@ -26,9 +27,9 @@ else{
 </header>
 
 <main>
-    <h1>Welcome to the weapon shop!</h1>
+    <h1>We are PONS (say it out loud)</h1>
     <p> We sell weapons :)</p>
-    <p> or do we</p>
+    <p> PONS stands for Positively Outstanding (ammu)Nitions SHOP </p>
 </main>
 
 </body>
