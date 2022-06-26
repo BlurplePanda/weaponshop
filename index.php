@@ -17,11 +17,11 @@ else{
 
 <body>
 <header>
-    <h3> PONS </h3>
+    <h3 class='center'> PONS </h3>
     <nav>
-        <a href='index.php'> Home </a>
-        <a href='weapons.php'> Weapons </a>
-        <a href='orders.php'> Make an order </a>
+        <a href='index.php' class='button' id='current'> Home </a>
+        <a href='weapons.php' class='button'> Weapons </a>
+        <a href='orders.php' class='button'> Make an order </a>
 
     </nav>
 </header>
